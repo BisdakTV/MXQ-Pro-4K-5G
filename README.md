@@ -1,8 +1,13 @@
 # MXQ-Pro-4K-5G
 
-IPTV App
+<b>IPTV App
+
 IPTV Players
+
 Tools
+
 Netflix apk
+
 Launcher
-Background Wallpaper HD
+
+Background Wallpaper HD</b>
